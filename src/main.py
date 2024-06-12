@@ -73,7 +73,7 @@ if __name__ == "__main__":
     # Baca file parts_list.txt
     PARTS_FILE_NAME = "parts_list.txt"
     parts = []
-    with open(PARTS_FILE_NAME) as file:
+    with open("test/" + PARTS_FILE_NAME) as file:
         for line in file:
             parts.append(line.strip().lower())
     
