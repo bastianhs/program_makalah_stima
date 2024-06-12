@@ -1,0 +1,2335 @@
+Loose Plastic Black
+Loose Plastic Light Grey
+Loose Plastic White
+Ribbon Braided Black
+Ribbon Braided Blue
+Ribbon Braided Cyan
+Ribbon Braided Dark Grey
+Ribbon Braided Green
+Ribbon Braided Light Grey
+Ribbon Braided Lime
+Ribbon Braided Orange
+Ribbon Braided Pink
+Ribbon Braided Purple
+Ribbon Braided Rainbow
+Ribbon Braided Red
+Ribbon Braided White
+Ribbon Braided Yellow
+Ribbon Plastic Black
+Ribbon Plastic Blue
+Ribbon Plastic Cyan
+Ribbon Plastic Dark Grey
+Ribbon Plastic Duo Black Blue
+Ribbon Plastic Duo Black Cyan
+Ribbon Plastic Duo Black Green
+Ribbon Plastic Duo Black Light Grey
+Ribbon Plastic Duo Black Lime
+Ribbon Plastic Duo Black Orange
+Ribbon Plastic Duo Black Pink
+Ribbon Plastic Duo Black Purple
+Ribbon Plastic Duo Black Red
+Ribbon Plastic Duo Black White
+Ribbon Plastic Duo Black Yellow
+Ribbon Plastic Green
+Ribbon Plastic Light Grey
+Ribbon Plastic Lime
+Ribbon Plastic Orange
+Ribbon Plastic Patterned Blue White
+Ribbon Plastic Patterned Blue Yellow
+Ribbon Plastic Patterned Blue Yellow Green
+Ribbon Plastic Patterned Blue Yellow Red
+Ribbon Plastic Patterned Cyan White
+Ribbon Plastic Patterned Green Red
+Ribbon Plastic Patterned Green White
+Ribbon Plastic Patterned Green White Red
+Ribbon Plastic Patterned Lime Black Grey
+Ribbon Plastic Patterned Orange White
+Ribbon Plastic Patterned Orange White Green
+Ribbon Plastic Patterned Purple Black
+Ribbon Plastic Patterned Purple White
+Ribbon Plastic Patterned Red Green White Black
+Ribbon Plastic Patterned Red White Blue
+Ribbon Plastic Patterned Red Yellow
+Ribbon Plastic Patterned Red Yellow Black
+Ribbon Plastic Patterned White Pink
+Ribbon Plastic Patterned White Red
+Ribbon Plastic Patterned White Red Blue Black
+Ribbon Plastic Pink
+Ribbon Plastic Purple
+Ribbon Plastic Rainbow
+Ribbon Plastic Red
+Ribbon Plastic Striped Black Blue
+Ribbon Plastic Striped Black Green
+Ribbon Plastic Striped Black Lime
+Ribbon Plastic Striped Black Orange
+Ribbon Plastic Striped Black Pink
+Ribbon Plastic Striped Black Purple
+Ribbon Plastic Striped Black Red
+Ribbon Plastic Striped Black White
+Ribbon Plastic Striped Black Yellow
+Ribbon Plastic Striped White Blue
+Ribbon Plastic Striped White Green
+Ribbon Plastic Striped White Lime
+Ribbon Plastic Striped White Orange
+Ribbon Plastic Striped White Pink
+Ribbon Plastic Striped White Purple
+Ribbon Plastic Striped White Red
+Ribbon Plastic Striped White Yellow
+Ribbon Plastic White
+Ribbon Plastic Yellow
+Sleeved Braided Black
+Sleeved Braided Blue
+Sleeved Braided Green
+Sleeved Braided Orange
+Sleeved Braided Pink
+Sleeved Braided Purple
+Sleeved Braided Red
+Sleeved Braided White
+Sleeved Plastic Black
+Sleeved Plastic Blue
+Sleeved Plastic Green
+Sleeved Plastic Orange
+Sleeved Plastic Pink
+Sleeved Plastic Purple
+Sleeved Plastic Red
+Sleeved Plastic White
+Tight Plastic Black
+Tight Plastic Blue
+Tight Plastic Green
+Tight Plastic Orange
+Tight Plastic Pink
+Tight Plastic Purple
+Tight Plastic Red
+Tight Plastic White
+XPG Battlecruiser (Black)
+XPG Battlecruiser (White)
+XPG Defender Pro (Black)
+XPG Defender Pro (White)
+Dark Avenger DA601
+DF500
+P110 Luce
+P120 Crystal
+P6
+P8
+ROG Strix Helios
+Dark Base 700 (Black)
+Dark Base 700 (White)
+Dark Base 900 (Black)
+Dark Base 900 (Orange)
+Dark Base 900 (Silver)
+Dark Base Pro 900 rev. 2 (Black)
+Dark Base Pro 900 rev. 2 (Orange)
+Dark Base Pro 900 rev. 2 (Silver)
+Pure Base 500 (Black Window)
+Pure Base 500 (Black)
+Pure Base 500 (Metallic Grey Window)
+Pure Base 500 (Metallic Grey)
+Pure Base 500 (White Window)
+Pure Base 500 (White)
+Pure Base 500DX (Black)
+Pure Base 500DX (White)
+Pure Base 600 (Black)
+Pure Base 600 (Silver)
+Pure Base 600 Window (Black)
+Pure Base 600 Window (Orange)
+Silent Base 600 (Black)
+Silent Base 600 (Green)
+Silent Base 600 (Orange)
+Silent Base 600 (Red)
+Silent Base 600 (Silver)
+Silent Base 600 Window (Black)
+Silent Base 600 Window (Green)
+Silent Base 600 Window (Orange)
+Silent Base 600 Window (Red)
+Silent Base 600 Window (Silver)
+Silent Base 601 (Black)
+Silent Base 601 (Orange)
+Silent Base 601 (Red)
+Silent Base 601 (Silver)
+Silent Base 601 Window (Black)
+Silent Base 601 Window (Orange)
+Silent Base 601 Window (Red)
+Silent Base 601 Window (Silver)
+Silent Base 801 (Black)
+Silent Base 801 (Orange)
+Silent Base 801 (Red)
+Silent Base 801 (Silver)
+Silent Base 801 Window (Black)
+Silent Base 801 Window (Orange)
+Silent Base 801 Window (Red)
+Silent Base 801 Window (Silver)
+COSMOS C700P
+MasterBox 5 (White)
+MasterBox 5 MSI Edition
+MasterBox NR200P (Black Window)
+MasterBox NR200P (Black)
+MasterBox NR200P (Blue Window)
+MasterBox NR200P (Blue)
+MasterBox NR200P (Orange Window)
+MasterBox NR200P (Orange)
+MasterBox NR200P (Pink Window)
+MasterBox NR200P (Pink)
+MasterBox NR200P (Purple Window)
+MasterBox NR200P (Purple)
+MasterBox NR200P (Sakura Window)
+MasterBox NR200P (Sakura)
+MasterBox NR200P (White Window)
+MasterBox NR200P (White)
+MasterCase H500P
+MasterCase Maker 5 MSI Dragon Edition
+MasterCase Maker 5t
+MasterFrame 700 (Bench Mode)
+MasterFrame 700 (Showcase Mode)
+Silencio S400
+Silencio S400 - Window
+Silencio S600
+Silencio S600 - Window
+Carbide Series 175R RGB
+Carbide Series 275R (Black)
+Carbide Series 275R (White)
+Carbide Series Air 740
+Carbide Series SPEC-DELTA RGB
+Carbide Series SPEC-OMEGA (Black)
+Carbide Series SPEC-OMEGA (Black/Red)
+Carbide Series SPEC-OMEGA (Black/White)
+Carbide SPEC-06 RGB (Black)
+Carbide SPEC-06 RGB (White)
+Crystal Series 280X RGB (Black)
+Crystal Series 280X RGB (White)
+Crystal Series 570X RGB
+Graphite Series 380T (Black)
+Graphite Series 380T (White)
+Graphite Series 380T (Yellow)
+iCUE 220T RGB Airflow (Black)
+iCUE 220T RGB Airflow (White)
+iCUE 220T RGB TG (Black)
+iCUE 220T RGB TG (White)
+iCUE 5000D (Black)
+iCUE 5000D (White)
+iCUE 5000D Airflow (Black)
+iCUE 5000D Airflow (White)
+iCUE 5000T
+iCUE 5000T (White)
+iCUE 5000X RGB (Black)
+iCUE 5000X RGB (White)
+Obsidian Series 1000D
+Obsidian Series 500D
+Obsidian Series 750D
+Obsidian Series 900D
+EARLKASE RGB
+EARLKASE RGB WH
+MATREXX 55
+DG-73
+DG-75 (Black)
+DG-75 (White)
+DG-76 (Black)
+DG-76 (White)
+DG-77 (Black)
+DG-77 (White)
+DG-84 Full Tower
+DG-85 Full Tower
+DG-86 Full Tower
+DG-87 Full Tower
+Define 7 Black
+Define 7 Clear TG Black
+Define 7 Clear TG White
+Define 7 Compact
+Define 7 Compact Dark TG Black
+Define 7 Compact Dark TG Black Grill
+Define 7 Compact Grill
+Define 7 Compact Light TG Black
+Define 7 Compact Light TG Black Grill
+Define 7 Compact Light TG White
+Define 7 Compact Light TG White Grill
+Define 7 Compact White
+Define 7 Compact White Grill
+Define 7 Dark TG Gray
+Define 7 Gray
+Define 7 Light TG Black
+Define 7 Light TG Gray
+Define 7 White
+Define 7 XL
+Define 7 XL Dark TG
+Define 7 XL Light TG
+Define R5 Black
+Define R5 Black - Window
+Define R5 Blackout Edition
+Define R5 Blackout Edition - Window
+Define R5 Titanium
+Define R5 Titanium - Window
+Define R5 White
+Define R5 White - Window
+Define R5 White & Gold Limited Edition - Window
+Define R6 Black
+Define R6 Black TG
+Define R6 Blackout
+Define R6 Blackout TG
+Define R6 Gunmetal
+Define R6 Gunmetal TG
+Define R6 White
+Define R6 White TG
+Focus G - Black
+Focus G - Gunmetal Gray
+Focus G - Mystic Red
+Focus G - Petrol Blue
+Focus G - White
+Meshify 2
+Meshify 2 Clear TG
+Meshify 2 Compact
+Meshify 2 Compact Clear TG White
+Meshify 2 Compact Dark TG Black
+Meshify 2 Compact Light TG Black
+Meshify 2 Compact Light TG Grey
+Meshify 2 Dark TG
+Meshify 2 Light TG
+Meshify 2 XL Dark TG
+Meshify 2 XL Light TG
+Meshify C
+Meshify C - Dark TG
+Meshify C - TG
+Meshify C White - TG
+Node 202
+Vector RS Dark TG
+Vector RS Dark TG (Glass Lid)
+Vector RS TG
+Vector RS TG (Glass Lid)
+CMT340
+CMT510 Plus
+CMT520 Plus
+Genome ROG Certified Edition
+NEW ARK 90
+Quadstellar
+Quadstellar Electro Limited Edition
+TRISTELLAR SW
+303-MSI Dragon Edition
+309
+925
+A1 (Black)
+A1 (White)
+Big Chungus
+Ethereal
+Observatory (Black)
+Observatory (White)
+Stronghold (Black)
+Stronghold (White)
+LANCOOL ONE Digital (Gold)
+LANCOOL ONE Digital (White)
+O11D XL-S
+O11D XL-W
+O11D XL-X
+PC-O11 Dynamic
+TU150 (Black + Window)
+TU150 (Black)
+TU150 (Silver + Window)
+TU150 (Silver)
+MPG Gungnir 100
+MPG Gungnir 110R
+MPG MAG Vampiric 010
+MPG SEKIRA 500G
+MPG SEKIRA 500P
+MPG SEKIRA 500X
+H200 (Black + Blue)
+H200 (Black + Red)
+H200 (Black)
+H200 (White)
+H210i (Black + Red)
+H210i (Black + White)
+H210i (Black)
+H400 (Black + Blue)
+H400 (Black + Red)
+H400 (Black)
+H400 (White)
+H440 - Designed by Razer
+H440 (Black + Blue)
+H440 (Black + Green)
+H440 (Black + Orange)
+H440 (Black + Red)
+H440 (Black)
+H440 (PC Building Simulator Limited Edition)
+H440 (White + Purple)
+H440 (White)
+H440 Hyper Beast
+H500 - Re-Animator
+H500 - Split
+H500 (Black + Blue)
+H500 (Black + Red)
+H500 (Black)
+H500 (White)
+H510 Elite (Black + White)
+H510 Elite (Black)
+H510i (Black + Red)
+H510i (Black + White)
+H510i (Black)
+H700i - Bush Flight Simulator
+H700i - Extinction Wars
+H700i - Galaxy Edition
+H700i - Good Company
+H700i - Organ Collector
+H700i (Black + Blue)
+H700i (Black + Red)
+H700i (Black)
+H700i (White)
+H710i (Black + Red)
+H710i (Black)
+H710i (White)
+S340 - Designed by Razer
+S340 (Black + Blue)
+S340 (Black + Red)
+S340 (Black)
+S340 (White + Purple)
+S340 (White)
+S340 Elite (Black + Blue)
+S340 Elite (Black + Red)
+S340 Elite (Black)
+S340 Elite (White)
+S340 Elite Hyper Beast
+OBT-BC1 (Black)
+OBT-BC1 (Red)
+OBT-BC1 (Silver)
+Asterion Plus
+COEUS ELITE TC
+COEUS EVO TC
+ENYO
+ERIS EVO
+METIS (Black)
+METIS (Blue)
+METIS (Gold)
+METIS (Green)
+METIS (Red)
+METIS (Silver)
+METIS (White)
+NYX PRO (Red)
+NYX PRO (Titan)
+NYX PRO (White)
+NYX PRO (Yellow)
+OPHION
+OPHION EVO
+PAEAN
+PAEAN M
+SILENOS
+STYX (Black)
+STYX (Blue)
+STYX (Gold)
+STYX (Green)
+STYX (Red)
+STYX (Silver)
+STYX (White)
+Thetis
+ZOFOS EVO
+CS381
+FARA B1
+FT05 (Black)
+FT05 (White)
+LD01
+LD03
+PM01-RGB (Black)
+PM01-RGB (White)
+PS14 (Black + Window)
+PS14 (Black)
+RL07 (Black)
+RL08 (Red)
+RL08 (White)
+RVX01 (Blue)
+RVX01 (Green)
+RVX01 (Red)
+RVZ03 (Black)
+RVZ03 (White)
+Core P5
+Core P5 Green Edition
+View 37 RGB
+View 91 RGB
+XPG VENTO 120
+XPG VENTO PRO 120 PWM
+Prizm 120 ARGB
+BioniX F120 (Green)
+BioniX F120 (Grey + White)
+BioniX F120 (Grey)
+BioniX F120 (Red)
+BioniX F120 (White)
+BioniX F120 (Yellow)
+BioniX F140 (Green)
+BioniX F140 (Grey + White)
+BioniX F140 (Grey)
+BioniX F140 (Red)
+BioniX F140 (White)
+BioniX F140 (Yellow)
+BioniX P120 (Green)
+BioniX P120 (Grey + White)
+BioniX P120 (Grey)
+BioniX P120 (Red)
+BioniX P120 (White)
+BioniX P120 (Yellow)
+BioniX P120 ARGB
+BioniX P140 (Grey + White)
+BioniX P140 (Grey)
+BioniX P140 (Red)
+BioniX P140 (White)
+F12 PWM PST
+F12 PWM PST CO
+F12 Silent
+F14 PWM PST
+F14 PWM PST CO
+F14 Silent
+P12
+P12 PWM (Black Transparent)
+P12 PWM (Black)
+P12 PWM (White Transparent)
+P12 PWM (White)
+P12 PWM PST (Black Transparent)
+P12 PWM PST (Black)
+P12 PWM PST (White Transparent)
+P12 PWM PST (White)
+P12 PWM PST CO
+P12 Silent
+P12 Slim PWM PST
+P12 TC
+P14
+P14 PWM
+P14 PWM PST
+P14 PWM PST CO
+P14 Silent
+Pure Wings 2 120mm
+Pure Wings 2 140mm
+Shadow Wings 2 120mm
+Shadow Wings 2 140mm
+Silent Wings 3 120mm
+Silent Wings 3 140mm
+SickleFlow 120mm
+SILENCIO FP 120 PWM
+HD120 RGB LED
+HD140 RGB LED
+iCUE QL120 RGB 120mm PWM (Black)
+iCUE QL120 RGB 120mm PWM (White)
+iCUE QL140 RGB 140mm PWM (Black)
+iCUE QL140 RGB 140mm PWM (White)
+LL120 RGB LED
+LL120 RGB LED (White)
+LL140 RGB LED
+ML120
+ML140
+SP120 (Black)
+SP120 (White)
+SP120 RGB Elite (Black)
+SP120 RGB Elite (White)
+SP120 RGB LED
+QF120 - Performance
+QF140 - Performance
+XF140
+XT140
+RF 120
+RF 140
+EK-Vardar EVO 120ER RGB
+EK-Vardar EVO 140S BB
+EK-Vardar F4-120ER
+Dynamic X2 GP-12
+Dynamic X2 GP-12 (Black)
+Dynamic X2 GP-12 (White)
+Dynamic X2 GP-14
+Dynamic X2 GP-14 (Black)
+Dynamic X2 GP-14 (White)
+Prisma AL-12
+Prisma AL-14
+Silent Series LL Blue 120mm
+Silent Series LL Red 120mm
+Silent Series LL White 120mm
+CMT510
+CMT520
+MF120
+MF120 GT
+TF120S (Black)
+TF120S (White)
+CROWN AC120
+CROWN AC140
+EGO AE120
+Luna AL120
+Polaris LED (Blue)
+Polaris LED (Green)
+Polaris LED (Red)
+Polaris LED (White)
+Polaris RGB
+Polaris RGB Aluminium
+Saturn ASN120
+Sirius Loop ASL120
+Bora Digital ARGB (Black)
+Bora Digital ARGB (Silver)
+Bora Digital ARGB (Space Grey)
+Heat Away 120
+Heat Away 140
+Heat Away 90
+Heat Away Pro RGB 120
+Heat Away RGB 120
+Heat Away RGB 140
+MAG MAX F20A-1
+Aer P 120mm (Black)
+Aer P 120mm (Blue)
+Aer P 120mm (Red)
+Aer P 120mm (White)
+Aer P 140mm (Black)
+Aer P 140mm (Blue)
+Aer P 140mm (Red)
+Aer P 140mm (White)
+IRIS 12
+IRIS 14 RBW ADD
+MACULA 12 RAINBOW RGB
+SKLERA 12 RBW ADD
+Air Blazer 120R
+Air Blazer 120RW
+Pure Plus 12 LED RGB
+Riing Plus 12 LED RGB
+Riing Plus 14 LED RGB
+Ryzen 3 Quad Core 1200
+Ryzen 3 Quad Core 1300X
+Ryzen 3 Quad Core 3100
+Ryzen 3 Quad Core 3300X
+Ryzen 5 Quad Core 1400
+Ryzen 5 Quad Core 1500X
+Ryzen 5 Six Core 1600
+Ryzen 5 Six Core 1600X
+Ryzen 5 Six Core 2600
+Ryzen 5 Six Core 2600X
+Ryzen 5 Six Core 3600
+Ryzen 5 Six Core 3600X
+Ryzen 5 Six Core 3600XT
+Ryzen 5 Six Core 5600X
+Ryzen 7 Eight Core 1700
+Ryzen 7 Eight Core 1700X
+Ryzen 7 Eight Core 1800X
+Ryzen 7 Eight Core 2700
+Ryzen 7 Eight Core 2700X
+Ryzen 7 Eight Core 3700X
+Ryzen 7 Eight Core 3800X
+Ryzen 7 Eight Core 3800XT
+Ryzen 7 Eight Core 5800X
+Ryzen 9 Sixteen Core 3950X
+Ryzen 9 Sixteen Core 5950X
+Ryzen 9 Twelve Core 3900X
+Ryzen 9 Twelve Core 3900XT
+Ryzen 9 Twelve Core 5900X
+Ryzen Threadripper 2920X
+Ryzen Threadripper 2950X
+Ryzen Threadripper 2970WX
+Ryzen Threadripper 2990WX
+Ryzen Threadripper 3960X
+Ryzen Threadripper 3970X
+Ryzen Threadripper 3990X
+Ryzen Threadripper Eight Core 1900X
+Ryzen Threadripper Sixteen Core 1950X
+Ryzen Threadripper Twelve Core 1920X
+Celeron G3900
+Celeron G3930
+Celeron G3950
+Celeron G5900
+Celeron G5920
+Core i3-10100
+Core i3-10300
+Core i3-10320
+Core i3-6100
+Core i3-6100T
+Core i3-6300
+Core i3-6320
+Core i3-7100
+Core i3-7300
+Core i3-7320
+Core i3-7350K
+Core i3-8100
+Core i3-8350K
+Core i5-10400
+Core i5-10500
+Core i5-10600
+Core i5-10600K
+Core i5-11400
+Core i5-11400F
+Core i5-11500
+Core i5-11600
+Core i5-11600K
+Core i5-11600KF
+Core i5-6400
+Core i5-6500
+Core i5-6600
+Core i5-6600K
+Core i5-7400
+Core i5-7500
+Core i5-7600
+Core i5-7600K
+Core i5-7640X
+Core i5-8400
+Core i5-8600K
+Core i5-9600K
+Core i7-10700
+Core i7-10700K
+Core i7-11700
+Core i7-11700K
+Core i7-11700KF
+Core i7-6700
+Core i7-6700K
+Core i7-7700
+Core i7-7700K
+Core i7-7740X
+Core i7-7800X
+Core i7-7820X
+Core i7-8086K
+Core i7-8700
+Core i7-8700K
+Core i7-9700K
+Core i7-9800X
+Core i9-10900
+Core i9-10900K
+Core i9-10900X
+Core i9-10920X
+Core i9-10940X
+Core i9-10980XE Extreme Edition
+Core i9-11900
+Core i9-11900K
+Core i9-11900KF
+Core i9-7900X
+Core i9-7920X
+Core i9-7940X
+Core i9-7960X
+Core i9-7980XE
+Core i9-9820X
+Core i9-9900K
+Core i9-9900KS
+Core i9-9900X
+Core i9-9920X
+Core i9-9940X
+Core i9-9960X
+Core i9-9980XE
+Pentium G4400
+Pentium G4500
+Pentium G4520
+Pentium G4560
+Pentium G4600
+Pentium G4620
+Pentium G6400
+Pentium G6500
+Pentium G6600
+Alpine 12 CO
+Alpine 12 LP
+Alpine 12 Passive
+Alpine 23
+Alpine 23 CO
+Alpine AM4 Passive
+Freezer 11 LP
+Freezer 12
+Freezer 12 CO
+Freezer 33
+Freezer 33 eSports Edition (Green)
+Freezer 33 eSports Edition (Red)
+Freezer 33 eSports Edition (White)
+Freezer 33 eSports Edition (Yellow)
+Freezer 33 eSports ONE (Green)
+Freezer 33 eSports ONE (Red)
+Freezer 33 eSports ONE (White)
+Freezer 33 eSports ONE (Yellow)
+Freezer 33 PENTA
+Freezer 33 Plus
+Freezer 33 TR (Red)
+Freezer 33 TR (White)
+Freezer 34
+Freezer 34 CO
+Freezer 34 eSports (Full White)
+Freezer 34 eSports (Green)
+Freezer 34 eSports (Grey)
+Freezer 34 eSports (Red)
+Freezer 34 eSports (White)
+Freezer 34 eSports (Yellow)
+Freezer 34 eSports DUO (All white)
+Freezer 34 eSports DUO (Green)
+Freezer 34 eSports DUO (Grey)
+Freezer 34 eSports DUO (Red)
+Freezer 34 eSports DUO (White)
+Freezer 34 eSports DUO (Yellow)
+Freezer 50
+Freezer 50 TR
+Freezer A13 X
+Freezer A13 X CO
+Freezer Xtreme
+Dark Rock 4
+Dark Rock Pro 4
+Dark Rock Pro TR4
+Dark Rock Slim
+Dark Rock TF
+Dark Rock TF 2
+Pure Rock
+Pure Rock 2 (Black)
+Pure Rock 2 (Silver)
+Pure Rock Slim
+Shadow Rock 2
+Shadow Rock 3
+Shadow Rock LP
+Shadow Rock Slim
+Shadow Rock TF 2
+Hyper 212 Black
+Hyper 212 Black Dual Fan Edition
+Hyper 212 EVO V2
+Hyper 212 LED Turbo
+Hyper 212 LED Turbo (White Edition)
+Hyper 212 RGB Black Dual Fan Edition
+Hyper 212 RGB Black Edition
+MasterAir MA610P
+MasterAir Pro 4
+A500 Dual Fan
+C1
+C7
+C7 RGB
+H5 Ultimate
+H5 Universal
+H7
+H7 Quad Lumi
+M9a
+M9i
+R1 Ultimate
+R1 Universal
+GAMMAXX 400 (Blue)
+GAMMAXX C40
+GAMMAXX GT
+ACX mITX
+ASSASSIN III
+Fryzen
+ATC700
+Thermal 100
+DELOS RBW
+ELEOS RBW
+Ereboss
+JUNO PRO RBW
+LETO PRO RGB
+MYA RBW
+PALLAS 120
+Themis Evo
+Tisis
+AR07
+AR08
+HE01
+HE02
+NT06-PRO
+Engine 27 1U Low-Profile
+Riing Silent 12 RGB Sync Edition
+XPG LEVANTE 240
+XPG LEVANTE 360
+Eisbaer 420 CPU
+Eisbaer Aurora 240 CPU
+Eisbaer Aurora 280 CPU
+Eisbaer Aurora 360 CPU
+Eisbaer Aurora 420 CPU
+K120
+K240
+Mercury120 RGB
+Mercury240 RGB
+Mercury360 RGB
+Neptune 120
+Neptune 240
+Liquid Freezer 2 series 120mm
+Liquid Freezer 2 series 240mm
+Liquid Freezer 2 series 280mm
+Liquid Freezer 2 series 360mm
+Liquid Freezer 2 series 420mm
+Silent Loop 120mm
+Silent Loop 240mm
+Silent Loop 280mm
+Silent Loop 360mm
+MasterLiquid 120
+MasterLiquid 240
+MasterLiquid ML120L V2 RGB
+MasterLiquid ML240 ILLUSION
+MasterLiquid ML240 ILLUSION (White)
+MasterLiquid ML240 MIRROR
+MasterLiquid ML240L V2 RGB
+MasterLiquid ML240R RGB PHANTOM GAMING EDITION
+MasterLiquid ML360 ILLUSION
+MasterLiquid ML360 MIRROR TR4 EDITION
+H115i PRO RGB 280mm
+H150i PRO RGB 360mm
+H80i v2
+iCUE H100i RGB PRO XT
+iCUE H115i RGB PRO XT
+iCUE H150i RGB PRO XT
+A40
+A40 Ultimate
+A80
+CLC 120
+CLC 240
+CLC 280
+CLC 360
+Celsius S24
+Celsius S36
+Celsius+ S24 Dynamic
+Celsius+ S24 Prisma
+Celsius+ S28 Dynamic
+Celsius+ S28 Prisma
+Celsius+ S36 Dynamic
+Celsius+ S36 Prisma
+ENKI 240 AIO
+ENKI 280 AIO
+ENKI 360 AIO
+Captain 120 EX RGB
+Captain 240 EX WHITE RGB
+Captain 360 EX WHITE RGB
+Castle 240 RGB
+Castle 280 RGB
+BR36
+SR24 PRO
+SR36 PRO
+MAG Coreliquid 240R
+MAG Coreliquid 360R
+Kraken M22
+Kraken X42
+Kraken X52
+Kraken X53
+Kraken X62
+Kraken X63
+Kraken X72
+Kraken X73
+Kraken Z63
+Kraken Z73
+EOS 240
+EOS 240 RBW
+EOS 360
+EOS 360 RBW
+ORCUS 120 RBW
+ORCUS 140 RBW
+ORCUS 240
+ORCUS 280 RBW
+ORCUS 360 RBW
+PF120-ARGB
+PF240-ARGB
+PF240W-ARGB
+PF360-ARGB
+PF360W-ARGB
+TD02-LITE
+TD02-SLIM
+TD03-LITE
+TD03-SLIM
+TH240 ARGB Sync
+TH240 ARGB Sync Snow Edition
+TH360 ARGB Sync Snow Edition
+Radeon RX 5700
+Radeon RX 5700 XT
+Radeon RX 6800
+Radeon RX 6800 XT
+Radeon RX 6900 XT
+Radeon RX Vega 56
+Radeon RX Vega 64
+Radeon VII
+Phantom Gaming D Radeon RX580 8G OC
+Phantom Gaming Radeon RX560 4G
+Phantom Gaming X Radeon RX VEGA 56 8G
+Phantom Gaming X Radeon RX580 8G OC
+Phantom Gaming X Radeon RX590 8G OC
+Radeon RX 6700 XT Phantom Gaming D 12GB OC
+Radeon RX 6800 Phantom Gaming D 16G OC
+Radeon RX 6800 XT Phantom Gaming D 16G OC
+Radeon RX 6800 XT Taichi X 16G OC
+Radeon RX 6900 XT Phantom Gaming D 16G OC
+AREZ Strix Radeon RX 580
+AREZ Strix Radeon RX VEGA 56 OC Edition
+Dual Series Radeon RX 580 OC Edition
+Expedition Radeon RX 570 OC Edition
+GeForce RTX 3070 OC Edition 8GB GDDR6
+Radeon RX 560
+ROG Strix GeForce GTX 1060 OC Edition
+ROG Strix GeForce GTX 1070 OC Edition
+ROG Strix GeForce GTX 1070 Ti Advanced Edition
+ROG Strix GeForce GTX 1080 OC Edition
+ROG Strix GeForce GTX 1080 Ti OC Edition
+ROG STRIX GeForce RTX 2060 SUPER Series
+ROG STRIX GeForce RTX 2070 SUPER Series
+ROG STRIX GeForce RTX 2080 SUPER Series
+ROG Strix Geforce RTX 2080 Ti 11GB Gaming
+ROG Strix GeForce RTX 3090 O24G
+ROG Strix Radeon RX 5500 XT 8GB Gaming
+ROG Strix Radeon RX 560 OC Edition
+ROG Strix Radeon RX 5600 XT OC Edition 6GB
+ROG Strix Radeon RX 570 8G
+ROG Strix Radeon RX 570 8G OC Edition
+ROG Strix Radeon RX 570 OC Edition
+ROG Strix Radeon RX 5700 OC Edition 8GB
+ROG Strix Radeon RX 5700 XT OC Edition 8GB
+ROG Strix RX VEGA64 OC Edition
+TUF Gaming GeForce RTX 3080 O10G
+GeForce RTX 3080 NB 10G-V
+GeForce RTX 3090 NB-V
+iGame GeForce RTX 2060 SUPER Ultra-V
+iGame GeForce RTX 2060 Ultra
+iGame GeForce RTX 2060 Ultra OC-V
+iGame GeForce RTX 2070 SUPER Vulcan OC-V
+iGame GeForce RTX 2070 SUPER Vulcan X OC-V
+iGame GeForce RTX 2070 Ultra OC-V
+iGame GeForce RTX 2070 Vulcan X OC-V
+iGame GeForce RTX 2080 Advanced-V
+iGame GeForce RTX 2080 SUPER Advanced OC-V
+iGame GeForce RTX 2080 SUPER Vulcan X OC
+iGame GeForce RTX 2080 Ti Advanced OC
+iGame GeForce RTX 2080 Ti Vulcan X OC
+iGame GeForce RTX 3060 bilibili E-sports Edition OC 12G-V
+iGame GeForce RTX 3060 Ti bilibili E-sports Edition OC LHR-V
+iGame GeForce RTX 3070 bilibili E-sports Edition OC LHR-V
+iGame GeForce RTX 3070 Ultra W OC-V
+iGame GeForce RTX 3080 Advanced 10G-V
+iGame GeForce RTX 3080 Ultra OC 10G-V
+iGame GeForce RTX 3080 Vulcan OC 10G-V
+iGame GeForce RTX 3090 Advanced OC-V
+Radeon R9 280 GR8 3G
+Radeon R9 290 GR8
+Radeon R9 290 GR8TOR
+GeForce GT 1030 SC
+GeForce GTX 1050 Ti FTW GAMING
+GeForce GTX 1050 Ti GAMING
+GeForce GTX 1060 FTW2 GAMING
+GeForce GTX 1060 GAMING 3GB
+GeForce GTX 1070 FTW2 GAMING
+GeForce GTX 1070 GAMING
+GeForce GTX 1080 GAMING
+GeForce GTX 1080 Ti GAMING
+GeForce GTX 1080 Ti K|NGP|N GAMING
+GeForce GTX 1650 XC ULTRA BLACK GAMING
+GeForce GTX 1660 SUPER SC ULTRA BLACK GAMING
+GeForce GTX 1660 Ti XC
+GeForce GTX 1660 Ti XC ULTRA GAMING
+GeForce RTX 2060 SC ULTRA GAMING
+GeForce RTX 2060 SUPER XC BLACK GAMING
+GeForce RTX 2070 FTW3 ULTRA GAMING
+GeForce RTX 2070 SUPER FTW3 ULTRA+
+GeForce RTX 2070 SUPER XC ULTRA
+GeForce RTX 2080 FTW3 ULTRA GAMING
+GeForce RTX 2080 SUPER BLACK GAMING
+GeForce RTX 2080 Ti FTW3 ULTRA GAMING
+GeForce RTX 2080Ti XC BLACK EDITION GAMING
+GeForce RTX 3080 FTW3 ULTRA GAMING
+GeForce RTX 3080 XC3 ULTRA GAMING
+GeForce RTX 3090 FTW3 ULTRA GAMING
+GeForce RTX 3090 XC3 ULTRA GAMING
+AORUS GeForce GTX 1060 6G
+AORUS GeForce GTX 1060 Xtreme Edition 6G
+AORUS GeForce GTX 1070 8G
+AORUS GeForce GTX 1080 8G
+AORUS GeForce GTX 1080 Ti 11G
+AORUS GeForce GTX 1080 Ti Xtreme Edition 11G
+AORUS GeForce GTX 1080 Xtreme Edition 8G
+AORUS GeForce RTX 2060 SUPER 8G
+AORUS GeForce RTX 2070 SUPER 8G
+AORUS GeForce RTX 2070 XTREME 8G
+AORUS GeForce RTX 2080 SUPER 8G
+AORUS GeForce RTX 2080 Ti XTREME 11G
+AORUS GeForce RTX 2080 XTREME 8G
+AORUS Radeon RX 5700 XT 8G
+AORUS Radeon RX570 4G
+AORUS Radeon RX580 4G
+AORUS Radeon RX580 8G
+GeForce GT 1030 OC 2G
+GeForce GTX 1050 Ti Windforce OC 4G
+GeForce GTX 1050 Windforce OC 2G
+GeForce RTX 2060 SUPER WINDFORCE OC 8G
+GeForce RTX 2070 SUPER GAMING OC WHITE 8G
+GeForce RTX 2080 SUPER GAMING OC 8G
+Radeon RX 5500 XT GAMING OC 8G
+Radeon RX 5500 XT OC 8G
+Radeon RX 5600 XT GAMING OC 6G
+Radeon RX 5600 XT WINDFORCE OC 6G
+Radeon RX 5700 GAMING OC 8G
+Radeon RX 5700 XT GAMING OC 8G
+GeForce GTX 1050 GAMING 2G
+GeForce GTX 1050 GAMING X 2G
+GeForce GTX 1050 Ti GAMING 4G
+GeForce GTX 1050 Ti GAMING X 4G
+GeForce GTX 1060 GAMING 3G
+GeForce GTX 1060 GAMING 6G
+GeForce GTX 1060 GAMING VR 3G
+GeForce GTX 1060 GAMING VR 6G
+GeForce GTX 1060 GAMING VR X 3G
+GeForce GTX 1060 GAMING VR X 6G
+GeForce GTX 1060 GAMING X 3G
+GeForce GTX 1060 GAMING X 6G
+GeForce GTX 1060 GAMING X+ 6G
+GeForce GTX 1060 GAMING+ 6G
+GeForce GTX 1070 GAMING 8G
+GeForce GTX 1070 GAMING X 8G
+GeForce GTX 1070 GAMING Z 8G
+GeForce GTX 1070 Ti GAMING 8G
+GeForce GTX 1070 Ti Titanium 8G
+GeForce GTX 1080 GAMING 8G
+GeForce GTX 1080 GAMING X 8G
+GeForce GTX 1080 GAMING X+ 8G
+GeForce GTX 1080 GAMING Z 8G
+GeForce GTX 1080 GAMING+ 8G
+GeForce GTX 1080 Ti GAMING 11G
+GeForce GTX 1080 Ti GAMING X 11G
+GeForce GTX 950 GAMING 2G
+GeForce GTX 960 GAMING 100ME
+GeForce GTX 960 GAMING 2G
+GeForce GTX 960 GAMING 2G LE
+GeForce GTX 960 GAMING 4G
+GeForce GTX 960 GAMING 4G LE
+GeForce GTX 960 GAMING LE 100ME
+GeForce GTX 970 GAMING 100ME
+GeForce GTX 970 GAMING 4G
+GeForce GTX 970 GAMING 4G Golden Edition
+GeForce GTX 970 GAMING LE 100ME
+GeForce GTX 980 GAMING 4G LE
+GeForce GTX 980 Ti GAMING 6G
+GeForce GTX 980 Ti GAMING 6G GOLDEN EDITION
+GeForce GTX 980 Ti GAMING 6G LE
+GeForce RTX 2060 SUPER ARMOR OC
+GeForce RTX 2060 SUPER GAMING X
+GeForce RTX 2060 SUPER Ventus GP OC
+GeForce RTX 2070 SUPER GAMING X
+GeForce RTX 2070 SUPER GAMING X Trio
+GeForce RTX 2070 SUPER Ventus GP OC
+GeForce RTX 2080 SUPER GAMING X Trio
+GeForce RTX 2080 SUPER Ventus XS OC
+GeForce RTX 2080 SUPER AERO
+GeForce RTX 3060Ti GAMING X TRIO
+GeForce RTX 3070 VENTUS 2X
+GeForce RTX 3080 SUPRIM X 10G
+GeForce RTX 3090 GAMING X TRIO 24G
+GeForce RTX 3090 SUPRIM X 24G
+GeForce RTX 3090 VENTUS 3X 24G OC
+Radeon R9 280 GAMING 3G
+Radeon R9 280 GAMING 3G LE
+Radeon R9 370 GAMING 2G
+Radeon R9 370 GAMING 4G
+Radeon R9 380 GAMING 2G
+Radeon R9 380 GAMING 4G
+Radeon R9 390 GAMING 8G
+Radeon R9 390 GAMING 8G LE
+Radeon R9 390X GAMING 8G
+Radeon R9 390X GAMING 8G LE
+Radeon RX 470 GAMING 4G
+Radeon RX 470 GAMING 8G
+Radeon RX 470 GAMING X 4G
+Radeon RX 470 GAMING X 8G
+Radeon RX 480 GAMING 4G
+Radeon RX 480 GAMING 8G
+Radeon RX 480 GAMING X 4G
+Radeon RX 480 GAMING X 8G
+Radeon RX 5500 XT GAMING X 8G
+Radeon RX 5600 XT GAMING X
+Radeon RX 570 GAMING 4G
+Radeon RX 570 GAMING 8G
+Radeon RX 570 GAMING X 4G
+Radeon RX 570 GAMING X 8G
+Radeon RX 5700 EVOKE GP OC
+Radeon RX 5700 GAMING X
+Radeon RX 5700 XT GAMING X
+Radeon RX 5700 XT Mech OC
+Radeon RX 580 GAMING 4G
+Radeon RX 580 GAMING 8G
+Radeon RX 580 GAMING X 4G
+Radeon RX 580 GAMING X 8G
+Radeon RX 580 GAMING X+ 8G
+Radeon RX 580 GAMING+ 8G
+Radeon RX 6800 GAMING TRIO 16G
+Radeon RX 6800 GAMING X TRIO 16G
+Radeon RX 6800 XT GAMING TRIO 16G
+Radeon RX 6800 XT GAMING X TRIO 16G
+Radeon RX 6900 XT GAMING TRIO 16G
+Radeon RX 6900 XT GAMING X TRIO 16G
+GeForce GTX 1060 Founders Edition
+GeForce GTX 1070 Founders Edition
+GeForce GTX 1070 Ti Founders Edition
+GeForce GTX 1080 Founders Edition
+GeForce GTX 1080 Ti Founders Edition
+GeForce RTX 2060 Founders Edition
+GeForce RTX 2070 Founders Edition
+GeForce RTX 2080 Founders Edition
+GeForce RTX 2080 Ti Founders Edition
+GeForce RTX 3060 Ti Founders Edition
+GeForce RTX 3070
+GeForce RTX 3070 Ti Founders Edition
+GeForce RTX 3080
+GeForce RTX 3080 Ti Founders Edition
+GeForce RTX 3090
+GeForce GTX 750 Ti GAMER
+GeForce GTX 970 GAMER
+GeForce GTX 970 GAMER XL
+GeForce GTX 980 GAMER
+GeForce GTX 980 GAMER XL
+GAMING GeForce RTX 2060 SUPER Amp Extreme
+GAMING GeForce RTX 2060 SUPER Mini
+GAMING GeForce RTX 2070 SUPER Mini
+GAMING GeForce RTX 2080 SUPER Amp
+GAMING GeForce RTX 2080 SUPER Amp Extreme
+GAMING GeForce RTX 2080 SUPER Twin Fan
+GAMING GeForce RTX 2080 Ti Amp
+GAMING GeForce RTX 2080 Ti Amp Extreme
+GAMING GeForce RTX 2080 Ti Amp MAXX
+GAMING GeForce RTX 2080 Ti Blower
+GAMING GeForce RTX 3060 AMP White Edition
+GAMING GeForce RTX 3060 Ti Twin Edge OC
+GAMING GeForce RTX 3060 Twin Edge OC
+GAMING GeForce RTX 3070 AMP Holo
+GAMING GeForce RTX 3070 Ti AMP Holo
+GAMING GeForce RTX 3070 Twin Edge OC
+GAMING GeForce RTX 3070 Twin Edge OC White Edition
+GAMING GeForce RTX 3080 Ti AMP Holo
+GAMING GeForce RTX 3080 Ti Trinity OC
+GAMING GeForce RTX 3080 Trinity
+GAMING GeForce RTX 3080 Trinity OC White Edition
+GAMING GeForce RTX 3090 AMP Core Holo
+GeForce GTX 1050 Ti OC Edition
+GeForce GTX 1060 AMP! Edition
+GeForce GTX 1060 Mini
+GeForce GTX 1070 AMP Extreme
+GeForce GTX 1070 Mini
+GeForce GTX 1080 AMP Extreme
+GeForce GTX 1080 Mini
+GeForce GTX 1080 Ti AMP Extreme
+GeForce GTX 1080 Ti Mini
+GeForce GTX 1660 Ti AMP
+Radeon Vega 56 | EKWB EK-FC Acetal
+Radeon Vega 56 | EKWB EK-FC Plexi
+Radeon Vega 56 | EKWB EK-FC Plexi RGB
+Radeon Vega 64 | EKWB EK-FC Acetal
+Radeon Vega 64 | EKWB EK-FC Plexi
+Radeon Vega 64 | EKWB EK-FC Plexi RGB
+GeForce RTX 3070 | Corsair Hydro X Series XG7 STRIX RGB
+GeForce RTX 3080 | Corsair Hydro X Series XG7 REFERENCE RGB
+GeForce RTX 3080 | Corsair Hydro X Series XG7 STRIX RGB
+GeForce RTX 3080 | Corsair Hydro X Series XG7 VENTUS RGB
+GeForce RTX 3080 FE | Corsair Hydro X Series XG7 RGB
+GeForce RTX 3090 | Corsair Hydro X Series XG7 REFERENCE RGB
+GeForce RTX 3090 | Corsair Hydro X Series XG7 STRIX RGB
+GeForce RTX 3090 | Corsair Hydro X Series XG7 VENTUS RGB
+GeForce RTX 3090 FE | Corsair Hydro X Series XG7 RGB
+Radeon RX 6800 XT | Corsair Hydro Series XG7 RGB
+Radeon RX 6900 XT | Corsair Hydro Series XG7 RGB
+GeForce RTX 2080 SUPER FTW3 HYDRO COPPER GAMING
+GeForce RTX 2080 Ti FTW3 ULTRA HYDRO COPPER GAMING
+GeForce RTX 2080 Ti XC HYDRO COPPER GAMING
+GeForce RTX 3080 FTW3 ULTRA HYDRO COPPER GAMING
+GeForce RTX 3080 XC3 ULTRA HYDRO COPPER GAMING
+GeForce RTX 3090 FTW3 ULTRA HYDRO COPPER GAMING
+GeForce RTX 3090 XC3 ULTRA HYDRO COPPER GAMING
+AORUS GeForce RTX 2080 SUPER WATERFORCE WB 8G
+AORUS GeForce RTX 2080 Ti XTREME WATERFORCE WB 11G
+GeForce GTX 1070 | EKWB EK-FC Acetal
+GeForce GTX 1070 | EKWB EK-FC Plexi
+GeForce GTX 1070 | EKWB EK-FC Plexi RGB
+GeForce GTX 1070 Ti | EKWB EK-FC Acetal
+GeForce GTX 1070 Ti | EKWB EK-FC Plexi
+GeForce GTX 1070 Ti | EKWB EK-FC Plexi RGB
+GeForce GTX 1080 | Alphacool NexXxoS GPX M10
+GeForce GTX 1080 | EKWB EK-FC Acetal
+GeForce GTX 1080 | EKWB EK-FC Plexi
+GeForce GTX 1080 | EKWB EK-FC Plexi RGB
+GeForce GTX 1080 Ti | EKWB EK-FC Acetal
+GeForce GTX 1080 Ti | EKWB EK-FC Plexi
+GeForce GTX 1080 Ti | EKWB EK-FC Plexi RGB
+GeForce RTX 2080Ti | Alphacool Eisblock GPX-N Acetal M02
+GeForce RTX 2080Ti | Alphacool Eisblock GPX-N Plexi M02
+GAMING GeForce RTX 3090 ArcticStorm
+ZOTAC GAMING GeForce RTX 2080 Ti ArcticStorm
+XPG PRECOG
+ROG Delta
+ROG Strix Fusion 700
+ROG Theta 7.1
+ROG Theta Electret
+TUF Gaming H7 Wireless (Grey)
+TUF Gaming H7 Wireless (Yellow)
+Cloud Alpha Pro (Purple)
+Cloud Alpha Pro (Red)
+DS502 GAMING
+IMMERSE GH30
+IMMERSE GH50
+Kraken Pro V2 Black
+Kraken Pro V2 Quartz Pink
+Nari Ultimate
+Thresher (Blue)
+Thresher (Green)
+SoundFusion
+Arctis 1 Wireless
+Arctis 3 (Black)
+Arctis 3 (White)
+Arctis 5 (Black)
+Arctis 5 (White)
+Arctis 7 (Black)
+Arctis 7 (White)
+XPG SUMMONER
+ROG Claymore
+ROG Claymore (Left Numpad)
+ROG Claymore (Right Numpad)
+ROG Strix Flare
+ROG Strix Flare (Wrist Rest)
+ROG Strix Scope Deluxe
+TUF Gaming K5
+TUF Gaming K7
+TUF Gaming K7 (Wrist Rest)
+K68 Gaming LED
+K68 Gaming RGB
+K70 RGB MK.2
+K70 RGB MK.2 (Wrist Rest)
+K70 RGB MK.2 SE
+K70 RGB MK.2 SE (Wrist Rest)
+K95 RGB Platinum
+Z10
+Z10 RGB
+Z20 RGB
+Z20 RGB (Wrist Rest)
+KM360 (Black)
+KM360 (White)
+Alloy Core RGB
+Alloy Elite 2
+Alloy FPS Pro
+Alloy FPS RGB
+Alloy Origins
+Alloy Origins Core
+Honor Edition
+Murder by Numbers Edition
+Retro Edition
+SCOUT Edition
+ComfortType
+ComfortType Gold Edition
+VIGOR GK30
+VIGOR GK50 LOW PROFILE
+VIGOR GK60
+VIGOR GK60 (Silver Keys)
+VIGOR GK80 RED
+VIGOR GK80 RED (Silver Keys)
+VIGOR GK80 RED Wrist Rest
+VIGOR GK80 RED Wrist Rest (Silver Keys)
+Viper V765 RGB
+BlackWidow Elite
+BlackWidow Lite
+Cynosa Chroma
+Cynosa Chroma Pro
+Huntsman Classic Black
+Huntsman Elite
+Huntsman Elite (Wrist Rest)
+Huntsman Quartz Pink
+Ornata Chroma
+Ornata Chroma (Wrist Rest)
+Apex 3
+Apex 3 (Wrist Rest)
+Apex 7
+Apex 7 (Wrist Rest)
+Apex 7 TKL
+Apex 7 TKL (Wrist Rest)
+Premier Series 4 GB 2133 MHz
+Premier Series 8 GB 2133 MHz
+SPECTRIX D40 RGB 8 GB 4000 MHz
+SPECTRIX D40 RGB 8 GB 4133 MHz
+SPECTRIX D40 RGB 8 GB 4266 MHz
+SPECTRIX D40 RGB 8 GB 4400 MHz
+SPECTRIX D41 RGB (Red) 8 GB 3000 MHz
+SPECTRIX D41 RGB (Red) 8 GB 3200 MHz
+SPECTRIX D41 RGB (Red) 8 GB 3600 MHz
+SPECTRIX D60G RGB 16 GB 3000 MHz
+SPECTRIX D60G RGB 16 GB 3200 MHz
+SPECTRIX D60G RGB 8 GB 3000 MHz
+SPECTRIX D60G RGB 8 GB 3200 MHz
+SPECTRIX D60G RGB 8 GB 3600 MHz
+SPECTRIX D60G RGB 8 GB 4133 MHz
+SPECTRIX D80 RGB 8 GB 3000 MHz
+SPECTRIX D80 RGB 8 GB 3200 MHz
+SPECTRIX D80 RGB 8 GB 3600 MHz
+SPECTRIX D80 RGB 8 GB 4133 MHz
+XPG Dazzle (Red LED) 16 GB 2400 MHz
+XPG Dazzle (Red LED) 16 GB 3000 MHz
+XPG Dazzle (Red LED) 8 GB 2400 MHz
+XPG Dazzle (Red LED) 8 GB 3000 MHz
+XPG Flame 16 GB 3000 MHz
+XPG Flame 8 GB 2666 MHz
+XPG Flame 8 GB 3000 MHz
+XPG GAMMIX D10 4 GB 2400 MHz
+XPG GAMMIX D10 4 GB 2666 MHz
+XPG GAMMIX D10 8 GB 2400 MHz
+XPG GAMMIX D10 8 GB 2666 MHz
+XPG Z1 8 GB 4000 MHz
+XPG Z1 8 GB 4133 MHz
+XPG Z1 8 GB 4266 MHz
+XPG Z1 8 GB 4400 MHz
+XPG Z1 8 GB 4600 MHz
+CVN Guardian DDR4 16 GB 3200 MHz
+CVN Guardian DDR4 8 GB 2666 MHz
+CVN Guardian DDR4 8 GB 3200 MHz
+iGame Vulcan DDR4 8 GB 3600 MHz
+iGame Vulcan DDR4 8 GB 4266 MHz
+Dominator Platinum 16 GB 2400 MHz
+Dominator Platinum 16 GB 2666 MHz
+Dominator Platinum 16 GB 2800 MHz
+Dominator Platinum 16 GB 3000 MHz
+Dominator Platinum 16 GB 3200 MHz
+Dominator Platinum 4 GB 2666 MHz
+Dominator Platinum 4 GB 3000 MHz
+Dominator Platinum 4 GB 3200 MHz
+Dominator Platinum 4 GB 4000 MHz
+Dominator Platinum 8 GB 2400 MHz
+Dominator Platinum 8 GB 2666 MHz
+Dominator Platinum 8 GB 2800 MHz
+Dominator Platinum 8 GB 3000 MHz
+Dominator Platinum 8 GB 3200 MHz
+Dominator Platinum 8 GB 3600 MHz
+Dominator Platinum 8 GB 3733 MHz
+Dominator Platinum RGB (Black) 16 GB 3200 MHz
+Dominator Platinum RGB (Black) 16 GB 3600 MHz
+Dominator Platinum RGB (Black) 16 GB 4000 MHz
+Dominator Platinum RGB (Black) 16 GB 4800 MHz
+Dominator Platinum RGB (Black) 8 GB 3200 MHz
+Dominator Platinum RGB (Black) 8 GB 3600 MHz
+Dominator Platinum RGB (Black) 8 GB 4000 MHz
+Dominator Platinum RGB (Black) 8 GB 4800 MHz
+Dominator Platinum RGB (White) 16 GB 3200 MHz
+Dominator Platinum RGB (White) 16 GB 3600 MHz
+Dominator Platinum RGB (White) 16 GB 4000 MHz
+Dominator Platinum RGB (White) 16 GB 4800 MHz
+Dominator Platinum RGB (White) 8 GB 3200 MHz
+Dominator Platinum RGB (White) 8 GB 3600 MHz
+Dominator Platinum RGB (White) 8 GB 4000 MHz
+Dominator Platinum RGB (White) 8 GB 4800 MHz
+Dominator Platinum Special Edition CONTRAST 8 GB 3466 MHz
+Vengeance LPX (Black) 16 GB 2400 MHz
+Vengeance LPX (Black) 16 GB 2666 MHz
+Vengeance LPX (Black) 16 GB 3200 MHz
+Vengeance LPX (Black) 16 GB 3600 MHz
+Vengeance LPX (Black) 32 GB 2666 MHz
+Vengeance LPX (Black) 32 GB 3200 MHz
+Vengeance LPX (Black) 32 GB 3600 MHz
+Vengeance LPX (Black) 4 GB 2133 MHz
+Vengeance LPX (Black) 4 GB 2400 MHz
+Vengeance LPX (Black) 4 GB 2666 MHz
+Vengeance LPX (Black) 8 GB 2400 MHz
+Vengeance LPX (Black) 8 GB 2666 MHz
+Vengeance LPX (Black) 8 GB 2933 MHz
+Vengeance LPX (Black) 8 GB 3200 MHz
+Vengeance LPX (Black) 8 GB 3600 MHz
+Vengeance LPX (Black) 8 GB 4000 MHz
+Vengeance LPX (Black) 8 GB 4333 MHz
+Vengeance LPX (Blue) 4 GB 2133 MHz
+Vengeance LPX (Blue) 4 GB 2400 MHz
+Vengeance LPX (Blue) 4 GB 2666 MHz
+Vengeance LPX (Blue) 4 GB 2800 MHz
+Vengeance LPX (Blue) 4 GB 3000 MHz
+Vengeance LPX (Blue) 8 GB 2400 MHz
+Vengeance LPX (Blue) 8 GB 2666 MHz
+Vengeance LPX (Blue) 8 GB 3000 MHz
+Vengeance LPX (Cool Gray) 16 GB 3000 MHz
+Vengeance LPX (Cool Gray) 16 GB 3200 MHz
+Vengeance LPX (Cool Gray) 8 GB 3000 MHz
+Vengeance LPX (Cool Gray) 8 GB 3200 MHz
+Vengeance LPX (Red) 16 GB 2400 MHz
+Vengeance LPX (Red) 16 GB 2666 MHz
+Vengeance LPX (Red) 16 GB 3200 MHz
+Vengeance LPX (Red) 16 GB 3600 MHz
+Vengeance LPX (Red) 32 GB 2666 MHz
+Vengeance LPX (Red) 32 GB 3200 MHz
+Vengeance LPX (Red) 32 GB 3600 MHz
+Vengeance LPX (Red) 4 GB 2133 MHz
+Vengeance LPX (Red) 4 GB 2400 MHz
+Vengeance LPX (Red) 4 GB 2666 MHz
+Vengeance LPX (Red) 8 GB 2400 MHz
+Vengeance LPX (Red) 8 GB 2666 MHz
+Vengeance LPX (Red) 8 GB 2933 MHz
+Vengeance LPX (Red) 8 GB 3200 MHz
+Vengeance LPX (Red) 8 GB 3600 MHz
+Vengeance LPX (Red) 8 GB 4000 MHz
+Vengeance LPX (Red) 8 GB 4333 MHz
+Vengeance LPX (White) 16 GB 2666 MHz
+Vengeance LPX (White) 16 GB 3000 MHz
+Vengeance LPX (White) 16 GB 3200 MHz
+Vengeance LPX (White) 8 GB 2666 MHz
+Vengeance LPX (White) 8 GB 3000 MHz
+Vengeance LPX (White) 8 GB 3200 MHz
+VENGEANCE RGB PRO (Black) 8 GB 3600 MHz
+VENGEANCE RGB PRO (Black) 8 GB 4000 MHz
+VENGEANCE RGB PRO (Black) 8 GB 4266 MHz
+VENGEANCE RGB PRO (Black) 8 GB 4700 MHz
+VENGEANCE RGB PRO (White) 8 GB 2666 MHz
+VENGEANCE RGB PRO (White) 8 GB 3000 MHz
+VENGEANCE RGB PRO (White) 8 GB 3200 MHz
+VENGEANCE RGB PRO (White) 8 GB 3600 MHz
+MOTIV8OR 4 GB 2400 MHz
+MOTIV8OR 8 GB 2400 MHz
+Flare X 8 GB 2400 MHz
+Flare X 8 GB 3200 MHz
+FORTIS 8 GB 2133 MHz
+FORTIS 8 GB 2400 MHz
+Ripjaws 4 (Black) 8 GB 2800 MHz
+Ripjaws 4 (Black) 8 GB 3200 MHz
+Ripjaws 4 (Blue) 8 GB 3000 MHz
+Ripjaws 4 (Red) 8 GB 3000 MHz
+Ripjaws V (Black) 16 GB 3200 MHz
+Ripjaws V (Black) 16 GB 3400 MHz
+Ripjaws V (Black) 8 GB 3200 MHz
+Ripjaws V (Black) 8 GB 3600 MHz
+Ripjaws V (Red) 16 GB 3400 MHz
+Ripjaws V (Red) 8 GB 3600 MHz
+Sniper X (Black) 8 GB 3400 MHz
+Sniper X (Black) 8 GB 3600 MHz
+Sniper X (Silver) 8 GB 3200 MHz
+Sniper X (Silver) 8 GB 3600 MHz
+Trident Z (Black) 16 GB 4000 MHz
+Trident Z (Black) 8 GB 4400 MHz
+Trident Z (Black) 8 GB 4500 MHz
+Trident Z (Silver) 16 GB 4000 MHz
+Trident Z (Silver) 8 GB 4000 MHz
+Trident Z (Silver) 8 GB 4500 MHz
+Trident Z Neo 16 GB 3200 MHz
+Trident Z Neo 32 GB 3200 MHz
+Trident Z Neo 8 GB 3200 MHz
+Trident Z RGB 16 GB 3200 MHz
+Trident Z RGB 16 GB 3866 MHz
+Trident Z RGB 8 GB 3000 MHz
+Trident Z RGB 8 GB 3200 MHz
+Trident Z RGB 8 GB 3600 MHz
+Trident Z RGB 8 GB 4000 MHz
+Trident Z RGB 8 GB 4400 MHz
+Trident Z RGB 8 GB 4800 MHz
+Trident Z Royal (Gold) 16 GB 3200 MHz
+Trident Z Royal (Gold) 16 GB 4266 MHz
+Trident Z Royal (Gold) 32 GB 3200 MHz
+Trident Z Royal (Gold) 8 GB 3200 MHz
+Trident Z Royal (Silver) 16 GB 3200 MHz
+Trident Z Royal (Silver) 16 GB 4266 MHz
+Trident Z Royal (Silver) 32 GB 3200 MHz
+Trident Z Royal (Silver) 8 GB 3200 MHz
+Trident Z Royal Elite DDR4 Gold 16 GB 3600 MHz
+Trident Z Royal Elite DDR4 Gold 16 GB 4000 MHz
+Trident Z Royal Elite DDR4 Gold 16 GB 4266 MHz
+Trident Z Royal Elite DDR4 Gold 16 GB 4800 MHz
+Trident Z Royal Elite DDR4 Gold 32 GB 4266 MHz
+Trident Z Royal Elite DDR4 Gold 8 GB 3600 MHz
+Trident Z Royal Elite DDR4 Gold 8 GB 4000 MHz
+Trident Z Royal Elite DDR4 Silver 16 GB 3600 MHz
+Trident Z Royal Elite DDR4 Silver 16 GB 4000 MHz
+Trident Z Royal Elite DDR4 Silver 16 GB 4266 MHz
+Trident Z Royal Elite DDR4 Silver 16 GB 4800 MHz
+Trident Z Royal Elite DDR4 Silver 32 GB 4266 MHz
+Trident Z Royal Elite DDR4 Silver 8 GB 3600 MHz
+Trident Z Royal Elite DDR4 Silver 8 GB 4000 MHz
+AORUS RGB 8 GB 3200 MHz
+Memory 8 GB 2666 MHz
+Fury DDR4 RGB 16 GB 2400 MHz
+Fury DDR4 RGB 16 GB 2666 MHz
+Fury DDR4 RGB 16 GB 3000 MHz
+Fury DDR4 RGB 16 GB 3200 MHz
+Fury DDR4 RGB 16 GB 3466 MHz
+Fury DDR4 RGB 16 GB 3600 MHz
+Fury DDR4 RGB 16 GB 3733 MHz
+Fury DDR4 RGB 32 GB 2400 MHz
+Fury DDR4 RGB 32 GB 2666 MHz
+Fury DDR4 RGB 32 GB 3000 MHz
+Fury DDR4 RGB 32 GB 3200 MHz
+Fury DDR4 RGB 32 GB 3466 MHz
+Fury DDR4 RGB 32 GB 3600 MHz
+Fury DDR4 RGB 8 GB 2400 MHz
+Fury DDR4 RGB 8 GB 2666 MHz
+Fury DDR4 RGB 8 GB 3000 MHz
+Fury DDR4 RGB 8 GB 3200 MHz
+Fury DDR4 RGB 8 GB 3466 MHz
+Fury DDR4 RGB 8 GB 3600 MHz
+Fury DDR4 RGB 8 GB 3733 MHz
+Predator DDR4 16 GB 3000 MHz
+Predator DDR4 16 GB 3200 MHz
+Predator DDR4 8 GB 2933 MHz
+Predator DDR4 8 GB 3000 MHz
+Predator DDR4 8 GB 3200 MHz
+Predator DDR4 8 GB 3600 MHz
+Predator DDR4 8 GB 4000 MHz
+Value Supreme 2 GB 2133 MHz
+Value Supreme 4 GB 2133 MHz
+Viper LED (Red LED) 4 GB 3000 MHz
+Viper LED (Red LED) 8 GB 2400 MHz
+Viper LED (Red LED) 8 GB 2666 MHz
+Viper LED (Red LED) 8 GB 3000 MHz
+Viper LED (White LED) 8 GB 2400 MHz
+Viper LED (White LED) 8 GB 3200 MHz
+Viper LED (White LED) 8 GB 3600 MHz
+Viper RGB (Black) 8 GB 2666 MHz
+Viper RGB (Black) 8 GB 3000 MHz
+Viper RGB (Black) 8 GB 3200 MHz
+Viper RGB (Black) 8 GB 3600 MHz
+Viper RGB (Black) 8 GB 4133 MHz
+Viper RGB (White) 8 GB 2666 MHz
+Viper RGB (White) 8 GB 3000 MHz
+Viper RGB (White) 8 GB 3200 MHz
+Viper Steel RGB 16 GB 3200 MHz
+Viper Steel RGB 16 GB 3600 MHz
+Viper Steel RGB 32 GB 3200 MHz
+Viper Steel RGB 32 GB 3600 MHz
+Viper Steel RGB 8 GB 3200 MHz
+Viper Steel RGB 8 GB 3600 MHz
+Viper Steel Series 16 GB 3000 MHz
+Viper Steel Series 16 GB 3200 MHz
+Viper Steel Series 4 GB 3200 MHz
+Viper Steel Series 8 GB 3000 MHz
+Viper Steel Series 8 GB 3200 MHz
+Viper Steel Series 8 GB 3400 MHz
+Viper Steel Series 8 GB 3600 MHz
+Viper Steel Series 8 GB 3733 MHz
+Viper Steel Series 8 GB 3866 MHz
+Viper Steel Series 8 GB 4000 MHz
+Viper Steel Series 8 GB 4133 MHz
+Viper Steel Series 8 GB 4400 MHz
+TITAN 2 GB 2133 MHz
+TITAN 4 GB 2133 MHz
+TITAN XL 8 GB 2133 MHz
+DARK PRO DDR4 (Red) 4 GB 3000 MHz
+DARK PRO DDR4 (Red) 4 GB 3200 MHz
+DARK PRO DDR4 (Red) 4 GB 3333 MHz
+DARK PRO DDR4 (Red) 8 GB 3000 MHz
+DARK PRO DDR4 (Red) 8 GB 3200 MHz
+DARK PRO DDR4 (Red) 8 GB 3333 MHz
+DARK PRO DDR4 (Red) 8 GB 3466 MHz
+DARK PRO DDR4 4 GB 3000 MHz
+DARK PRO DDR4 4 GB 3200 MHz
+DARK PRO DDR4 4 GB 3333 MHz
+DARK PRO DDR4 8 GB 3000 MHz
+DARK PRO DDR4 8 GB 3200 MHz
+DARK PRO DDR4 8 GB 3333 MHz
+DARK PRO DDR4 8 GB 3466 MHz
+T-Force DARK (Red) 16 GB 2400 MHz
+T-Force DARK (Red) 16 GB 3000 MHz
+T-Force DARK (Red) 4 GB 2400 MHz
+T-Force DARK (Red) 4 GB 2666 MHz
+T-Force DARK (Red) 4 GB 2800 MHz
+T-Force DARK (Red) 8 GB 2400 MHz
+T-Force DARK (Red) 8 GB 2666 MHz
+T-Force DARK (Red) 8 GB 3000 MHz
+T-Force DARK (Silver) 16 GB 2666 MHz
+T-Force DARK (Silver) 16 GB 2800 MHz
+T-Force DARK (Silver) 16 GB 3000 MHz
+T-Force DARK (Silver) 4 GB 2400 MHz
+T-Force DARK (Silver) 4 GB 3000 MHz
+T-Force DARK (Silver) 8 GB 2400 MHz
+T-Force DARK (Silver) 8 GB 2666 MHz
+T-Force DARK (Silver) 8 GB 3000 MHz
+T-Force Delta II RGB Series (Black) 4 GB 2400 MHz
+T-Force Delta II RGB Series (Black) 4 GB 3000 MHz
+T-Force Delta II RGB Series (Black) 8 GB 2400 MHz
+T-Force Delta II RGB Series (Black) 8 GB 3000 MHz
+T-Force Delta II RGB Series (White) 4 GB 2400 MHz
+T-Force Delta II RGB Series (White) 8 GB 2400 MHz
+T-Force Delta II RGB Series (White) 8 GB 2666 MHz
+T-Force Delta II RGB Series (White) 8 GB 3000 MHz
+T-Force Night Hawk (Blue LED) 16 GB 3000 MHz
+T-Force Night Hawk (Blue LED) 16 GB 3200 MHz
+T-Force Night Hawk (Blue LED) 8 GB 3000 MHz
+T-Force Night Hawk (Blue LED) 8 GB 3200 MHz
+T-Force Night Hawk (Red LED) 16 GB 3000 MHz
+T-Force Night Hawk (Red LED) 16 GB 3200 MHz
+T-Force Night Hawk (Red LED) 8 GB 3000 MHz
+T-Force Night Hawk (Red LED) 8 GB 3200 MHz
+T-Force Night Hawk (White LED) 16 GB 3000 MHz
+T-Force Night Hawk (White LED) 16 GB 3200 MHz
+T-Force Night Hawk (White LED) 8 GB 3000 MHz
+T-Force Night Hawk (White LED) 8 GB 3200 MHz
+T-Force Night Hawk RGB (Black) 8 GB 3000 MHz
+T-Force Night Hawk RGB (White) 8 GB 3000 MHz
+T-Force Xtreem ARGB DDR4 GAMING 8 GB 3200 MHz
+T-Force Xtreem ARGB DDR4 GAMING 8 GB 3600 MHz
+T-Force Xtreem ARGB DDR4 GAMING 8 GB 4000 MHz
+XCALIBUR RGB DDR4 16 GB 3200 MHz
+XCALIBUR RGB DDR4 16 GB 3600 MHz
+XCALIBUR RGB DDR4 16 GB 4000 MHz
+XCALIBUR RGB DDR4 32 GB 3200 MHz
+XCALIBUR RGB DDR4 32 GB 3600 MHz
+XCALIBUR RGB DDR4 32 GB 4000 MHz
+XCALIBUR RGB DDR4 8 GB 3200 MHz
+XCALIBUR RGB DDR4 8 GB 3600 MHz
+XCALIBUR RGB DDR4 8 GB 4000 MHz
+XCALIBUR RGB DDR4 Special Edition 16 GB 3200 MHz
+XCALIBUR RGB DDR4 Special Edition 16 GB 3600 MHz
+XCALIBUR RGB DDR4 Special Edition 16 GB 4000 MHz
+XCALIBUR RGB DDR4 Special Edition 32 GB 3200 MHz
+XCALIBUR RGB DDR4 Special Edition 32 GB 3600 MHz
+XCALIBUR RGB DDR4 Special Edition 32 GB 4000 MHz
+XCALIBUR RGB DDR4 Special Edition 8 GB 3200 MHz
+XCALIBUR RGB DDR4 Special Edition 8 GB 3600 MHz
+XCALIBUR RGB DDR4 Special Edition 8 GB 4000 MHz
+ZEUS DDR4 GAMING 16 GB 2666 MHz
+ZEUS DDR4 GAMING 16 GB 3000 MHz
+ZEUS DDR4 GAMING 16 GB 3200 MHz
+ZEUS DDR4 GAMING 32 GB 2666 MHz
+ZEUS DDR4 GAMING 32 GB 3000 MHz
+ZEUS DDR4 GAMING 32 GB 3200 MHz
+ZEUS DDR4 GAMING 8 GB 2666 MHz
+ZEUS DDR4 GAMING 8 GB 3000 MHz
+ZEUS DDR4 GAMING 8 GB 3200 MHz
+Predator XB253Q
+Predator XB273GX
+Predator XB273K GP
+Predator XB273U NV
+Predator XB273UGS
+ROG SWIFT PG279QE
+ROG SWIFT PG27UQ
+EX2780Q
+GL2780
+ExtraVision
+ExtraVision Blue Edition
+ExtraVision Gold Edition
+ExtraVision Pink Edition
+ExtraVision Silver Edition
+ExtraVision White Edition
+AORUS FI27Q-P
+B450 Steel Legend
+B450M Steel Legend
+B550 Pro4
+B550M-ITX/ac
+TRX40 Taichi
+X570 Extreme4
+X570 Pro4
+Z390 Extreme 4
+Z390 Phantom Gaming 4
+Z390 Phantom Gaming 6
+Z390 Phantom Gaming 9
+Z390 Phantom Gaming ITX/ac
+Z390 Phantom Gaming SLI/ac
+Z390 Pro4
+Z390 Taichi
+Z390 Taichi Ultimate
+Z390M Pro4
+Z390M-ITX/ac
+Z590 Phantom Gaming 4
+Z590M Phantom Gaming 4
+Z590M-ITX/ax
+PRIME X299-DELUXE
+PRIME X470-PRO
+PRIME Z370-A
+ROG Crosshair VII Hero (WI-FI)
+ROG Maximus X Apex
+ROG Maximus X Code
+ROG Maximus X Formula
+ROG Maximus X Hero (Wi-Fi AC)
+ROG Rampage VI Apex
+ROG Rampage VI Extreme
+ROG Strix B550-E Gaming
+ROG Strix B550-F Gaming Wifi
+ROG Strix TRX40-E Gaming
+ROG Strix X299-E Gaming
+ROG Strix X399-E Gaming
+ROG Strix X470-F Gaming
+ROG Strix X470-I Gaming
+ROG Strix X570-I Gaming
+ROG Strix Z370-E Gaming
+ROG Strix Z370-G Gaming (Wi-Fi AC)
+ROG Strix Z370-I Gaming
+ROG ZENITH EXTREME
+ROG ZENITH II Extreme Alpha
+TUF X299 MARK 1
+TUF Z370-PLUS GAMING
+TUF Z370-PRO GAMING
+CVN B365M GAMING PRO V20
+CVN X570 GAMING PRO V14
+CVN Z390M GAMING PRO V20
+iGame Z390 Vulcan X V20
+A320M 4TUNE X
+H170 4TUNE X
+X299 DARK
+X299 FTW K
+X299 Micro
+Z270 Classified K
+Z270 FTW K
+Z370 FTW
+Z490 DARK
+Z490 FTW WIFI
+B360 AORUS GAMING 3
+B360M AORUS GAMING 3
+B360N AORUS GAMING WIFI
+B450 AORUS M
+GA-AB350-Gaming 3
+GA-AB350M-Gaming 3
+GA-AX370-Gaming 5
+GA-AX370-Gaming K7
+GA-B250M-Gaming 5
+GA-Z270X-Gaming 8
+H370 AORUS GAMING 3
+TRX40 AORUS MASTER (rev. 1.0)
+TRX40 AORUS PRO WIFI (rev. 1.0)
+TRX40 AORUS XTREME (rev. 1.0)
+TRX40 DESIGNARE (rev. 1.0)
+X299 AORUS Gaming 9
+X299 DESIGNARE EX
+X399 AORUS Gaming 7
+X399 DESIGNARE EX
+X470 AORUS GAMING 7 WIFI
+X570 AORUS ELITE WIFI (rev 1.0)
+X570 AORUS MASTER (rev 1.0)
+X570 AORUS PRO WIFI (rev 1.0)
+X570 AORUS ULTRA (rev 1.0)
+X570 AORUS XTREME(rev 1.0)
+X570 Gaming X
+X570I AORUS PRO WIFI (rev 1.0)
+Z370 AORUS Gaming 7
+Z370 AORUS Ultra Gaming
+Z490 AORUS XTREME
+Z490 AORUS XTREME WATERFORCE
+Z590 AORUS ULTRA
+Z590 AORUS XTREME WATERFORCE
+Z590 VISION G
+Z590I VISION D
+A320M Mtech plus
+H170 Mtech
+H170 Mtech plus
+B450 TOMAHAWK
+B450I GAMING PLUS AC
+B450M Mortar Max
+Creator TRX40
+MAG B460 TOMAHAWK
+MAG B460M BAZOOKA
+MAG B550 TOMAHAWK
+MAG B550M BAZOOKA
+MAG B550M MORTAR WIFI
+MAG Z390 TOMAHAWK
+MAG Z590 TOMAHAWK WIFI
+MAG Z590 TORPEDO
+MEG B550 UNIFY-X
+MEG X570 ACE
+MEG X570 Godlike
+MEG X570 UNIFY
+MEG Z390 ACE
+MEG Z490I Unify
+MEG Z590 ACE
+MPG B550 GAMING CARBON WIFI
+MPG B550 Gaming EDGE Wifi
+MPG B550I GAMING EDGE WIFI
+MPG X570 GAMING EDGE WIFI
+MPG X570 Gaming Plus
+MPG X570 GAMING PRO CARBON WIFI
+MPG Z390 GAMING EDGE AC
+MPG Z390 GAMING PRO CARBON
+MPG Z490 Gaming Carbon Wifi
+MPG Z490M Gaming Edge Wifi
+MPG Z590 CARBON EK X
+MPG Z590 GAMING CARBON WIFI
+Prestige X570 Creation
+TRX40 PRO 10G
+TRX40 PRO Wifi
+X399 Gaming Pro Carbon AC
+X570-A PRO
+Z270 Gaming Pro Carbon
+Z370 Gaming Pro Carbon
+N7 B550 (Black)
+N7 B550 (White)
+N7 Z370 (Black)
+N7 Z370 (White)
+N7 Z390 (Black)
+N7 Z390 (White)
+N7 Z590 (Black)
+N7 Z590 (White)
+ROG Chakram
+ROG Gladius II Core
+ROG Gladius II Origin PNK LTD
+ROG Pugio II
+ROG Spatha
+ROG Strix Impact II
+DARK CORE RGB PRO SE
+GLAIVE RGB PRO Aluminum (Extended Grip)
+GLAIVE RGB PRO Aluminum (Medium Grip)
+GLAIVE RGB PRO Aluminum (Plain Grip)
+IRONCLAW RGB
+M55 RGB PRO (Black)
+M55 RGB PRO (White)
+NIGHTSWORD RGB
+SCIMITAR RGB ELITE
+TORQ X10
+TORQ X5L
+X17
+Pulsefire Dart
+Pulsefire FPS Pro
+Pulsefire Raid
+Pulsefire Surge
+Honor Edition
+Murder by Numbers Edition
+Retro Edition
+SCOUT Edition
+SmoothPoint
+SmoothPoint Gold Edition
+Clutch GM11
+Clutch GM30
+Clutch GM50
+Viper V570 RGB
+Basilisk Classic Black
+Basilisk Quartz Pink
+DeathAdder Elite
+DeathAdder Essential
+Lancehead Tournament Edition Classic Black
+Lancehead Tournament Edition Gunmetal Grey
+Lancehead Tournament Edition Mercury White
+Lancehead Tournament Edition Quartz Pink
+Mamba Elite
+Mamba Wireless
+Naga Trinity (12 Button)
+Naga Trinity (2 Button)
+Naga Trinity (7 Button)
+RIVAL 310
+RIVAL 600
+RIVAL 710
+SENSEI TEN
+XPG Battleground XL PRIME
+ROG Balteus Qi
+ROG Scabbard
+ROG Sheath PNK LTD
+TUF Gaming P3
+Glide
+GlideWide (Extended)
+Tohu (Extra Large)
+Tohu (Large)
+Tohu (Medium)
+FURY S Pro - Speed Edition (Extra Large)
+FURY S Pro - Speed Edition (Large)
+FURY S Pro - Speed Edition (Medium)
+FURY S Pro - Speed Edition (Small)
+FURY S Pro (Extra Large)
+FURY S Pro (Large)
+FURY S Pro (Medium)
+FURY S Pro (Small)
+FURY Ultra RGB
+Murder By Numbers (Extra Large)
+Murder By Numbers (Large)
+Murder By Numbers (Medium)
+SCOUT (Extra Large)
+SCOUT (Large)
+SCOUT (Medium)
+AGILITY GD30
+AGILITY GD60
+AGILITY GD70
+Destructor 2
+Firefly (Cloth Edition)
+Goliathus - Fissure Edition
+Goliathus - Gravity Edition
+Goliathus Extended Chroma Classic Black
+Goliathus Extended Chroma Quartz Pink
+Invicta Black
+Invicta Gunmetal Grey
+Invicta Mercury White
+Invicta Quartz Pink
+QcK (Large) Neon Rider Edition
+QcK Hard Pad (Medium)
+QcK Heavy Series (Large)
+QcK Heavy Series (Medium)
+QcK Heavy Series (XXL)
+QcK Prism Cloth (Medium)
+QcK Prism Cloth (XL)
+QcK Prism Cloth (XL) Neon Rider Edition
+T-Force Sable (Extended)
+T-Force Sable (Large)
+XPG Core Reactor 650W
+XPG Core Reactor 750W
+XPG Core Reactor 850W
+XPG Pylon 450W
+XPG Pylon 550W
+XPG Pylon 650W
+XPG Pylon 750W
+High Current Gamer 650W
+High Current Gamer 750W
+High Current Gamer 850W
+High Current Gamer Extreme Series 1000W
+High Current Gamer Extreme Series 850W
+SIGNATURE 1000 PLATINUM
+SIGNATURE 1000 TITANIUM
+SIGNATURE 1300 PLATINUM
+MasterWatt Maker 1200 MIJ
+MWE 450 Bronze - V2
+MWE 450 White - V2
+MWE 500 Bronze - V2
+MWE 550 Bronze - V2
+MWE 550 White - V2
+MWE 600 Bronze - V2
+MWE 650 Bronze - V2
+MWE 650 White - V2
+MWE 700 Bronze - V2
+MWE 750 Bronze - V2
+MWE 750 White - V2
+MWE Bronze 450
+MWE Bronze 500
+MWE Bronze 550
+MWE Bronze 600
+MWE Bronze 650
+V1300 Platinum
+V550 GOLD
+V550 Gold V2
+V550 Gold V2 White
+V550 SFX Gold
+V650 GOLD
+V650 Gold V2
+V650 Gold V2 White
+V650 SFX Gold
+V750
+V750 GOLD
+V750 Gold V2
+V750 Gold V2 White
+V750 SFX Gold
+V850 GOLD
+V850 Gold V2
+V850 Gold V2 White
+V850 SFX Gold
+AX1600i
+HX1000
+RM1000x
+RM550x
+RM650
+RM650x
+RM750
+RM750i
+RM750x
+RM850
+RM850x
+TX550M
+TX650M
+TX750M
+TX850M
+450 B3
+SuperNOVA 1000 T2
+SuperNOVA 1050 GS
+SuperNOVA 1200 P2
+SuperNOVA 1300 G2
+SuperNOVA 1600 G2
+SuperNOVA 1600 P2
+SuperNOVA 1600 T2
+SuperNOVA 550 G3
+SuperNOVA 650 P2
+SuperNOVA 750 T2
+SuperNOVA 850 T2
+Ion SFX-L Gold 500W
+Ion SFX-L Gold 650W
+Ion+ Platinum 560W
+Ion+ Platinum 660W
+Ion+ Platinum 760W
+Ion+ Platinum 860W
+Dagger Pro 550W
+Dagger Pro 650W
+Hydro G 650
+Hydro G 750
+Hydro G 850
+Hydro PTM 550W
+Hydro PTM 550W (Red)
+Hydro PTM 650W
+Hydro PTM 650W (Red)
+Hydro PTM 750W
+Hydro PTM 750W (Red)
+DQ650-M
+DQ750-M
+DQ850-M
+AORUS P750W
+AORUS P850W
+Powerking 250
+Powerking 300
+Powerking 350
+Powerking 400
+Powerking 600
+ET550-B
+ET550-G
+ET650-B
+ET650-G
+ET700-MG
+ET750-G
+NJ520
+NJ700
+ST1000-PT
+ST1100-TI
+ST1200-PT
+ST1300-TI
+ST1500-TI
+ST55F-PT
+ST60F-TI
+ST65F-PT
+ST70F-TI
+ST75F-PT
+ST80F-TI
+ST85F-PT
+SX500-G
+SX650-G
+Smart Pro RGB 850W
+Toughpower iRGB PLUS 1200W
+Bongle
+Custom Water Cooling Shop
+GPU Tuner
+Market
+OCCT
+Part Ranking
+PC Bay
+Peripheral Shop
+System Info
+Will it run?
+EZStore 120GB
+EZStore 250GB
+EZStore 320GB
+EZStore 500GB
+BarraCuda 1TB 64MB Cache
+BarraCuda 2TB 64MB Cache
+BarraCuda 3TB 64MB Cache
+BarraCuda 4TB 256MB Cache
+BarraCuda 500GB 32MB Cache
+XPG GAMMIX S11 M.2 240GB
+XPG GAMMIX S11 M.2 480GB
+XPG GAMMIX S11 M.2 960GB
+XPG SPECTRIX S40G RGB M.2 1TB
+XPG SPECTRIX S40G RGB M.2 256GB
+XPG SPECTRIX S40G RGB M.2 2TB
+XPG SPECTRIX S40G RGB M.2 512GB
+XPG SX6000 M.2 128GB
+XPG SX6000 M.2 1TB
+XPG SX6000 M.2 256GB
+XPG SX6000 M.2 512GB
+Force Series - MP500 M.2 120GB
+Force Series - MP500 M.2 240GB
+Force Series - MP500 M.2 480GB
+Force Series - MP500 M.2 960GB
+Force Series - MP600 M.2 1TB
+Force Series - MP600 M.2 2TB
+Force Series - MP600 M.2 512GB
+AORUS NVMe Gen4 SSD 1TB
+AORUS NVMe Gen4 SSD 2TB
+AORUS RGB M.2 NVMe SSD 256GB
+AORUS RGB M.2 NVMe SSD 512GB
+M.2 PCIe SSD 128GB
+M.2 PCIe SSD 256GB
+M.2 PCIe SSD 512GB
+A2000 NVMe PCIe SSD 1000GB
+A2000 NVMe PCIe SSD 250GB
+A2000 NVMe PCIe SSD 500GB
+KC2000 NVMe PCIe SSD 1000GB
+KC2000 NVMe PCIe SSD 2000GB
+KC2000 NVMe PCIe SSD 250GB
+KC2000 NVMe PCIe SSD 500GB
+Scorch M.2 128GB
+Scorch M.2 256GB
+Scorch M.2 512GB
+Viper VP4100 M.2 1TB
+Viper VP4100 M.2 2TB
+Viper VP4300 M.2 1TB (Aluminum heatshield)
+Viper VP4300 M.2 1TB (Graphene heatshield)
+Viper VP4300 M.2 2TB (Aluminum heatshield)
+Viper VP4300 M.2 2TB (Graphene heatshield)
+Viper VPN100 M.2 1TB
+Viper VPN100 M.2 256GB
+Viper VPN100 M.2 2TB
+Viper VPN100 M.2 512GB
+Viper VPR100 M.2 1TB
+Viper VPR100 M.2 256GB
+Viper VPR100 M.2 2TB
+Viper VPR100 M.2 512GB
+CARDEA M.2 240GB
+CARDEA M.2 480GB
+CARDEA ZERO Z340 M.2 PCIe SSD 1TB
+CARDEA ZERO Z340 M.2 PCIe SSD 256GB
+CARDEA ZERO Z340 M.2 PCIe SSD 4TB
+CARDEA ZERO Z340 M.2 PCIe SSD 512GB
+Ultimate SU650 120GB
+Ultimate SU650 240GB
+Ultimate SU650 480GB
+Ultimate SU650 960GB
+XPG SX950U 120GB
+XPG SX950U 240GB
+XPG SX950U 480GB
+XPG SX950U 960GB
+SL500 1TB
+SL500 1TB DDR
+SL500 240GB
+SL500 256GB
+SL500 360GB
+SL500 480GB
+SL500 512GB
+SL500 512GB DDR
+SL500 720GB
+SL500 960GB
+SL500 960GB Blue.L.E
+Force Series - LE200 120GB
+Force Series - LE200 240GB
+Force Series - LE200 480GB
+Force Series - LE200 960GB
+SSD 120GB
+SSD 1TB
+SSD 240GB
+SSD 256GB
+SSD 480GB
+UD PRO 256GB
+UD PRO 512GB
+FURY RGB 240GB
+FURY RGB 480GB
+FURY RGB 960GB
+A400 SATA SSD 120GB
+A400 SATA SSD 240GB
+A400 SATA SSD 480GB
+A400 SATA SSD 960GB
+KC600 SATA SSD 1024GB
+KC600 SATA SSD 2048GB
+KC600 SATA SSD 256GB
+KC600 SATA SSD 512GB
+Burst 120GB
+Burst 240GB
+Burst 480GB
+Mega 120GB
+Mega 250GB
+Mega 60GB
+DELTA Phantom Gaming RGB 1TB
+DELTA Phantom Gaming RGB 500GB
+DELTA TUF Gaming Alliance RGB 1TB
+DELTA TUF Gaming Alliance RGB 500GB
+T-FORCE Delta MAX 1TB
+T-FORCE Delta MAX 250GB
+T-FORCE Delta MAX 500GB
+T-FORCE Delta RGB 1TB (Black)
+T-FORCE Delta RGB 1TB (White)
+T-FORCE Delta RGB 250GB (Black)
+T-FORCE Delta RGB 250GB (White)
+T-FORCE Delta RGB 500GB (Black)
+T-FORCE Delta RGB 500GB (White)
+T-FORCE Vulcan 1TB
+T-FORCE Vulcan 250GB
+T-FORCE Vulcan 500GB
+Auto-Cable Tool
+Auto-Connect Tool
+Auto-Screw Tool
+Auto-Standoff Tool
+Faster Installation Upgrade
+Quick-Cable Tool
+Quick-Screw Tool
+OS Installation USB Drive 2
+OS Installation USB Drive 3
+Black Clear Coolant
+Black Flecked Coolant
+Black Opaque Coolant
+Blue Clear Coolant
+Blue Flecked Coolant
+Blue Opaque Coolant
+Clear Coolant
+Cyan Clear Coolant
+Cyan Flecked Coolant
+Cyan Opaque Coolant
+Green Clear Coolant
+Green Flecked Coolant
+Green Opaque Coolant
+Lime Clear Coolant
+Lime Flecked Coolant
+Lime Opaque Coolant
+Pink Clear Coolant
+Pink Flecked Coolant
+Pink Opaque Coolant
+Purple Clear Coolant
+Purple Flecked Coolant
+Purple Opaque Coolant
+Red Clear Coolant
+Red Flecked Coolant
+Red Opaque Coolant
+UV Blue Clear Coolant
+UV Blue Opaque Coolant
+UV Green Clear Coolant
+UV Green Opaque Coolant
+UV Orange Clear Coolant
+UV Orange Opaque Coolant
+UV Purple Clear Coolant
+UV Purple Opaque Coolant
+UV Red Clear Coolant
+UV Red Opaque Coolant
+UV Yellow Clear Coolant
+UV Yellow Opaque Coolant
+White Clear Coolant
+White Flecked Coolant
+White Opaque Coolant
+Yellow Clear Coolant
+Yellow Flecked Coolant
+Yellow Opaque Coolant
+Eisblock XPX (Black)
+Eisblock XPX (Blue)
+Eisblock XPX (Grey)
+Eisblock XPX (Matte Grey)
+Eisblock XPX (Red)
+Eisblock XPX (Silver)
+Eisblock XPX Pro 1U (LGA 2066)
+Eisblock XPX Pro 1U (TR4)
+Hydro X Series XC7 RGB 115X/AM4 (Black)
+Hydro X Series XC7 RGB 115X/AM4 (White)
+Hydro X Series XC7 RGB 2066 (Black)
+Hydro X Series XC7 RGB 2066 (White)
+Hydro X Series XC7 RGB sTR4 (Black)
+Hydro X Series XC7 RGB sTR4 (White)
+Hydro X Series XC9 RGB 2066 (Black)
+Hydro X Series XC9 RGB 2066 (White)
+Hydro X Series XC9 RGB sTR4 (Black)
+Hydro X Series XC9 RGB sTR4 (White)
+EK-Supremacy Edge Black Acetal
+EK-Supremacy Edge Black Plexi
+EK-Supremacy Edge Nickel Acetal
+EK-Supremacy Edge Nickel Plexi
+EK-Supremacy Edge Red Acetal
+EK-Supremacy Edge Red Plexi
+EK-Supremacy EVO - Acetal
+EK-Supremacy EVO - Full Nickel
+EK-Supremacy EVO - Nickel
+EK-Supremacy Evo Acetal Blue
+EK-Supremacy Evo Plexi Red
+EK-Supremacy EVO RGB - Nickel
+EK-Supremacy Evo White Acetal
+EK-Supremacy sTR4 - Full Nickel
+EK-Supremacy sTR4 - Nickel
+EK-Supremacy sTR4 - Nickel+Acetal
+EK-Supremacy sTR4 RGB - Nickel
+CWB-RGB
+CWB-TR4 RBW
+FORKIS ELITE
+FORKIS PRO RBW
+Flexible Black Pipe
+Flexible Blue Pipe
+Flexible Clear Pipe
+Flexible Green Pipe
+Flexible Purple Pipe
+Flexible Red Pipe
+Flexible White Pipe
+Flexible Yellow Pipe
+Rigid Black Pipe
+Rigid Blue Pipe
+Rigid Clear Pipe
+Rigid Copper Pipe
+Rigid Green Pipe
+Rigid Nickel Pipe
+Rigid Purple Pipe
+Rigid Red Pipe
+Rigid White Pipe
+Rigid Yellow Pipe
+Eiszapfen 13mm Fitting (Black)
+Eiszapfen 13mm Fitting (Blue)
+Eiszapfen 13mm Fitting (Red)
+Eiszapfen 13mm Fitting (Silver)
+Hydro X Series XF Fitting (Black)
+Hydro X Series XF Fitting (Gold)
+Hydro X Series XF Fitting (Silver)
+Hydro X Series XF Fitting (White)
+EK-WB Angled (Black Nickel)
+EK-WB Angled (Black)
+EK-WB Angled (Nickel)
+EK-WB Fitting (Black Nickel)
+EK-WB Fitting (Black)
+EK-WB Fitting (Blue)
+EK-WB Fitting (Copper)
+EK-WB Fitting (Gold)
+EK-WB Fitting (Green)
+EK-WB Fitting (Nickel)
+EK-WB Fitting (Purple)
+EK-WB Fitting (Red)
+EK-WB Fitting (White)
+PELIAS RGB Fitting
+NexXxoS ST30 120
+NexXxoS ST30 140
+NexXxoS ST30 240
+NexXxoS ST30 280
+NexXxoS ST30 360
+Hydro X Series XR5 120
+Hydro X Series XR5 140
+Hydro X Series XR5 240
+Hydro X Series XR5 280
+Hydro X Series XR5 360
+Hydro X Series XR5 420
+Hydro X Series XR7 240
+Hydro X Series XR7 360
+Hydro X Series XR7 480
+EK-CoolStream SE 120
+EK-CoolStream SE 120 RGB
+EK-CoolStream SE 140
+EK-CoolStream SE 240
+EK-CoolStream SE 240 RGB
+EK-CoolStream SE 280
+EK-CoolStream SE 360
+EK-CoolStream SE 360 RGB
+CALORE C240D
+CALORE C360D
+Eisbecher D5 250mm Acetal
+Eisbecher DDC 150mm Acetal
+Eisstation DC-Ultra
+XD3 RGB Combo
+XD5 RGB Combo (Black)
+XD5 RGB Combo (White)
+EK-XRES 100 Revo D5
+EK-XRES 140 Revo D5
+EK-XRES 140 Revo D5 - Plexi
+EK-XRES 140 Revo D5 RGB
+Antila D5 RBW
